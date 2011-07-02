@@ -1,0 +1,1 @@
+WeatherStation is an example of the Observer pattern where one class informs a set of other classes when it's state changes, and also allows those classes to access its state whenever they want.
